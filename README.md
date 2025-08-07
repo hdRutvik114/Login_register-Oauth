@@ -11,7 +11,7 @@ This app helped me get practical experience with Passport.js, working with Postg
 
 -o 🏠 Home Page
 The landing page with a clean UI introducing the app and buttons to Register or Login.
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/Home.png)
 
 -o 🔐 Login Page
 Users can securely login using their credentials or continue with Google OAuth.
